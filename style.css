@@ -1,0 +1,23 @@
+h1 {
+  color: green;
+}
+h2 {
+  color: blue;
+  border-bottom: 1px solid;
+}
+
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: orange;
+}
+body {
+  background: skyblue;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+#info {
+  line-height: 1.5em;
+}
